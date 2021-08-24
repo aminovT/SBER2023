@@ -12,5 +12,5 @@
  - задача регрессии:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BJ7k7iz8ZCZCrSqNrI0mfKLYzsuVE6Pc?usp=sharing)
 2. Средний и продвинутый потоки
- - продвинцтые методы задачи регрессии
+ - продвинутые методы задачи регрессии
 
