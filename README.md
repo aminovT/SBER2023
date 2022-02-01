@@ -1,4 +1,5 @@
 # Мои контакты @Sifonsoul(tg)
+# Доп Материалы(https://docs.google.com/document/d/1DYZXqCThpW5YryRCjo3gl_mf749u-jb7/edit?usp=sharing&ouid=117284464637395028067&rtpof=true&sd=true)
 # SBER2023
 1. Все потоки 
  - введение в python:
